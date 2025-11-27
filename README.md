@@ -11,7 +11,7 @@ With 20+ years across financial services, insurance, and global eCommerce, I foc
 
 Joyjit Roy is a technology and program management leader specializing in digital transformation, cloud modernization, and applied artificial intelligence. With over two decades of experience across financial, insurance, and eCommerce sectors, his work bridges large-scale enterprise delivery with AI and ML-driven automation.
 
-He currently serves as a Principal Program Manager and AI/ML Cloud certified professional, leading modernization initiatives that integrate machine learning, automation, and agile delivery frameworks. His writing and research explore how emerging AI technologies such as generative models, multimodal systems, and agentic architectures can optimize enterprise operations and decision-making.
+He currently serves as a Lead Principal Technical Program Manager and AI/ML Cloud certified professional, leading modernization initiatives that integrate machine learning, automation, and agile delivery frameworks. His writing and research explore how emerging AI technologies such as generative models, multimodal systems, and agentic architectures can optimize enterprise operations and decision-making.
 
 His key interests include applied AI research, agentic systems, cognitive automation, cloud-native architectures, and responsible AI adoption in large organizations.
 
