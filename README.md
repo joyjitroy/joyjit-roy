@@ -17,62 +17,48 @@ His key interests include applied AI research, agentic systems, cognitive automa
 
 ---
 
-## 🔗 Know Me
+### 🔗 Know Me
 <p align="left">
-
-<a href="https://orcid.org/my-orcid?orcid=0009-0000-0886-782X" target="_blank">
+<a href="https://orcid.org/my-orcid?orcid=0009-0000-0886-782X" target="blank">
   <img src="https://github.com/joyjitroy/joyjit-roy/blob/main/assets/orcid.png" width="45" alt="ORCID"/>
 </a>
 &nbsp;&nbsp;
 
-<a href="https://community.pmi.org/profile/joyjitroy" target="_blank">
+<a href="https://community.pmi.org/profile/joyjitroy" target="blank">
   <img src="https://github.com/joyjitroy/joyjit-roy/blob/main/assets/pmi.png" width="120" alt="PMI"/>
 </a>
 &nbsp;&nbsp;
 
-<a href="https://www.scrumalliance.org/community/profile/jroy23" target="_blank">
+<a href="https://www.scrumalliance.org/community/profile/jroy23" target="blank">
   <img src="https://github.com/joyjitroy/joyjit-roy/blob/main/assets/scrum.png" width="120" alt="Scrum Alliance"/>
 </a>
 &nbsp;&nbsp;
 
-<a href="https://www.credly.com/users/joyjit-roy" target="_blank">
+<a href="https://www.credly.com/users/joyjit-roy" target="blank">
   <img src="https://github.com/joyjitroy/joyjit-roy/blob/main/assets/credly.png" width="45" alt="Credly"/>
 </a>
-
 </p>
-
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://twitter.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/x.svg" alt="Twitter" width="30"/></a>
+<a href="https://twitter.com/yourhandle" target="blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="30" alt="X (Twitter)"/>
+</a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com/in/royjoyjit" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="30"/></a>
+<a href="https://linkedin.com/in/royjoyjit" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="30"/></a>
 </p>
 
----
-
-## 🛠️ Languages and Tools
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-</p>
 
 ---
 
 ## 📈 GitHub Stats
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=joyjit-roy&show_icons=true&theme=default" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyjit-roy&layout=compact" height="160"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=joyjitroy&show_icons=true&theme=default" height="160"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joyjitroy&layout=compact" height="160"/>
 </p>
 
 ---
