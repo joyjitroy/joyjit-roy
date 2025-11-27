@@ -71,7 +71,7 @@ His key interests include applied AI research, agentic systems, cognitive automa
 
 ---
 
-## 🎓 Certifications (Credly Badges)
+## 🎓 Certifications
 
 <!-- Example format — replace image URLs & links with your real Credly badges -->
 <p>
