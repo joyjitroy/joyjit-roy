@@ -17,27 +17,28 @@ His key interests include applied AI research, agentic systems, cognitive automa
 
 ---
 
-### 🔗 Know Me
-<p align="left">
-<a href="https://orcid.org/my-orcid?orcid=0009-0000-0886-782X" target="blank">
-  <img src="https://github.com/joyjitroy/joyjit-roy/blob/main/assets/orcid.png" width="45" alt="ORCID"/>
+### 🌐 Know Me
+<p>
+<a style="display:inline-block; margin-right:12px" href="https://orcid.org/my-orcid?orcid=0009-0000-0886-782X">
+  <img src="https://github.com/joyjitroy/joyjit-roy/blob/main/assets/orcid.png" width="45"/>
 </a>
-&nbsp;&nbsp;
 
-<a href="https://community.pmi.org/profile/joyjitroy" target="blank">
-  <img src="https://github.com/joyjitroy/joyjit-roy/blob/main/assets/pmi.png" width="120" alt="PMI"/>
+<a style="display:inline-block; margin-right:12px" href="https://community.pmi.org/profile/joyjitroy">
+  <img src="https://github.com/joyjitroy/joyjit-roy/blob/main/assets/pmi.png" width="120"/>
 </a>
-&nbsp;&nbsp;
 
-<a href="https://www.scrumalliance.org/community/profile/jroy23" target="blank">
-  <img src="https://github.com/joyjitroy/joyjit-roy/blob/main/assets/scrum.png" width="120" alt="Scrum Alliance"/>
+<a style="display:inline-block; margin-right:12px" href="https://www.scrumalliance.org/community/profile/jroy23">
+  <img src="https://github.com/joyjitroy/joyjit-roy/blob/main/assets/scrum.png" width="120"/>
 </a>
-&nbsp;&nbsp;
 
-<a href="https://www.credly.com/users/joyjit-roy" target="blank">
-  <img src="https://github.com/joyjitroy/joyjit-roy/blob/main/assets/credly.png" width="45" alt="Credly"/>
+<a style="display:inline-block;" href="https://www.credly.com/users/joyjit-roy">
+  <img src="https://github.com/joyjitroy/joyjit-roy/blob/main/assets/credly.png" width="45"/>
 </a>
 </p>
+
+
+</div>
+
 
 ---
 
