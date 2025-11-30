@@ -44,7 +44,7 @@ His key interests include applied AI research, agentic systems, cognitive automa
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://twitter.com/yourhandle" target="blank">
+<a href="https://x.com/JoyjitRoy_" target="blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="30" alt="X (Twitter)"/>
 </a>
 &nbsp;&nbsp;
